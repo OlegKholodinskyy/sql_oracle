@@ -9,7 +9,7 @@ public class Demo {
 
 
         //db
-        // create table with cokumns;
+        // create table with columns;
         // insert some data to table
         //use it
 
